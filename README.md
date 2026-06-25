@@ -4,6 +4,8 @@ An archive of various plotting scripts I have written to display and interpret s
 
 Some example outputs:
 
+![](Images/2026_pennyplot.png)
+
 ![](Images/exoplanet.png)
 
 ![](Images/477md.png)
