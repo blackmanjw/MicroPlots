@@ -8,6 +8,8 @@ Some example outputs:
 
 ![](Images/477md.png)
 
+![](Images/lc.png)
+
 ![](Images/Ha.png)
 
 ![](Images/corner.jpg)
