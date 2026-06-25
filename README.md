@@ -4,4 +4,4 @@ An archive of various plotting scripts I have written to display and interpret s
 
 Some example outputs:
 
-![477md](images/477md.jpg)
+![](Images/477md.png)
