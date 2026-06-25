@@ -4,4 +4,4 @@ An archive of various plotting scripts I have written to display and interpret s
 
 Some example outputs:
 
-~[](images/477md.png)
+~[](/images/477md.png)
